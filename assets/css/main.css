@@ -622,6 +622,7 @@ input, select, textarea {
 
 	.box {
 		background: #ffffff;
+		font-weight: 400;
 		color: #39454b;
 		padding: 2em;
 	}
