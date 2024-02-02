@@ -434,7 +434,7 @@ input, select, textarea {
 			transform-origin: 50% 50%;
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Arial, Helvetica, sans-serif;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -621,7 +621,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #696969c2;
+		background: #317231c2;
 		font-weight: 400;
 		color: #ffffff;
 		padding: 2em;
@@ -1258,7 +1258,7 @@ input, select, textarea {
 				animation: spinner-rotate 0.75s infinite linear !important;
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Arial, Helvetica, sans-serif;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -1853,6 +1853,7 @@ input, select, textarea {
 			}
 
 		#header nav {
+			font-weight: 600;
 			position: absolute;
 			right: 0.5em;
 			top: 0;
