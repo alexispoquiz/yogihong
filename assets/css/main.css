@@ -859,12 +859,12 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		color: #39454b;
+		color: #000000;
 		display: block;
 		width: 100%;
 		padding: 0.65em 0.75em;
 		background: none;
-		border: solid 2px #e5e6e7;
+		border: solid 2px #5e5e5e;
 		color: inherit;
 		border-radius: 0.5em;
 		outline: none;
@@ -878,7 +878,7 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #9ac8e9;
+			border-color: #00ff08;
 		}
 
 	input[type="text"],
@@ -900,19 +900,19 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		opacity: 0.375;
+		opacity: 1;
 	}
 
 	:-moz-placeholder {
-		opacity: 0.375;
+		opacity: 1;
 	}
 
 	::-moz-placeholder {
-		opacity: 0.375;
+		opacity: 1;
 	}
 
 	:-ms-input-placeholder {
-		opacity: 0.375;
+		opacity: 1;
 	}
 
 /* Icon */
